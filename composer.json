@@ -1,5 +1,5 @@
 {
-    "name": "You/Route",
+    "name": "libo/route",
     "description": "Main Route For You app",
     "require": {
         "php": ">=7.4",
