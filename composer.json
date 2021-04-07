@@ -1,0 +1,14 @@
+{
+    "name": "You/Route",
+    "description": "Main Route For You app",
+    "require": {
+        "php": ">=7.4",
+        "You/Route": "1.*"
+    },
+    "require": {
+        "symfony/http-foundation": "^5.2",
+        "nikic/fast-route": "^1.3"
+        
+       }
+ 
+}
