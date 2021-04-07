@@ -1,9 +1,9 @@
 {
-    "name": "libo/route",
-    "description": "Main Route For You app",
+    "name": "edah/route",
+    "description": "Main Route For edah app",
     "require": {
         "php": ">=7.4",
-        "libo/route": "1.*"
+        "edah/route": "1.*"
     },
     "require": {
         "symfony/http-foundation": "^5.2",
