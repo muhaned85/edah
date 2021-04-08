@@ -1,14 +1,27 @@
 {
     "name": "edah/core",
+    "type": "library",
     "description": "Main Core For edah Framwork",
      "license": "MIT",
-    
+    "authors": [
+        {
+            "name": "muhanned Younes",
+            "email": "moh.so2001@gmail.com"
+        },
+
+    ],
     "require": {
         "symfony/http-foundation": "^5.2",
         "nikic/fast-route": "^1.3",
         "php": ">=7.4"
         
        },
+    "autoload": {
+        "psr-4": { "EDAH\\Core\\": "" },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
     "minimum-stability": "beta"
 }
  
