@@ -1,6 +1,6 @@
 {
     "name": "edah/core",
-    "description": "Main Route For edah app",
+    "description": "Main Core For edah Framwork",
      "license": "MIT",
     
     "require": {
