@@ -1,5 +1,6 @@
 <?php 
 
+namespace EDAH\Core;
 
 Class Application 
 {
